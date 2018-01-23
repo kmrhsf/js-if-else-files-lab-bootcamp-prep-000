@@ -1,4 +1,4 @@
-var index = require("./index.js")
+nodejs other_file.jsvar index = require("./index.js")
 
 if (index.name === "Susan") {
     console.log("The name is correct")
